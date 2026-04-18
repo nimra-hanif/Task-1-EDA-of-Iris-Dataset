@@ -1,5 +1,5 @@
-Task Objective: The objective of this task was to perform Exploratory Data Analysis (EDA) on the Iris dataset to understand its structure, patterns, and relationships between different features using visualizations.
-Approach: The following steps were performed:
+The objective of this task was to perform Exploratory Data Analysis (EDA) on the Iris dataset to understand its structure, patterns, and relationships between different features using visualizations.
+The following steps were performed:
 Loaded the Iris dataset using sklearn
 Converted it into a Pandas DataFrame
 Explored dataset structure using .shape, .columns, and .head()
@@ -12,4 +12,4 @@ Petal length and petal width showed strong relationships and clear class separat
 Sepal features showed more overlap between classes
 Box plots helped identify spread and potential outliers
 Histograms showed overall distribution patterns of features
-Conclusion: The EDA revealed meaningful patterns in the Iris dataset, especially in petal-related features, which are highly useful for classification tasks in machine learning.
+In conclusion, the EDA revealed meaningful patterns in the Iris dataset, especially in petal-related features, which are highly useful for classification tasks in machine learning.
